@@ -23,7 +23,7 @@ Preview
 
 Thanks
 =======
-This software is modified based on XX and added dynamic library injection function. I would like to thank the original author Maciej Swic (https://github.com/maciekish/iReSign).
+This software is modified based on iReSign (https://github.com/maciekish/iReSign), adding dynamic library injection function, thanks to original author Maciej Swic.
 
 
 License
