@@ -18,7 +18,7 @@ iReSignDylib allows you to inject dynamic library and re-sign any unencrypted ip
 
 Preview
 =======
-![Image text](https://raw.githubusercontent.com/mapboo/iReSignDylib/master/ScreenShot.png)
+![ScreenShot](https://raw.githubusercontent.com/mapboo/iReSignDylib/master/ScreenShot.png)
 
 
 Thanks
