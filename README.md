@@ -19,10 +19,9 @@ iReSignDylib allows you to inject dynamic library and re-sign any unencrypted ip
 Preview
 =======
 ![ScreenShot](https://raw.githubusercontent.com/mapboo/iReSignDylib/master/ScreenShot.png)
-![image](http://codertopic.com/ScreenShot.png)
 
 
-Thanks
+Thanks to
 =======
 This software is modified based on iReSign (https://github.com/maciekish/iReSign), adding dynamic library injection function, thanks to original author Maciej Swic.
 
