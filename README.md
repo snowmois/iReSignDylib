@@ -6,7 +6,7 @@ iReSignDylib can inject dynamic library and also allows iDevice app bundles (.ip
 How to use
 =======
 
-iReSignDylib allows you to inject dynamic library and re-sign any unencrypted ipa-file with any certificate for which you hold the corresponding private key. iResign can also created a signed ipa-file from an xcarchive file.
+iReSignDylib allows you to inject dynamic library and re-sign any unencrypted ipa-file with any certificate for which you hold the corresponding private key, also created a signed ipa-file from an xcarchive file.
 
 1. Drag your dynamic library file to the top box, or use the browse button.
 
